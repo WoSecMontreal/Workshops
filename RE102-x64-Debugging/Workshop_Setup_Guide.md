@@ -12,7 +12,7 @@ Even if you have a Windows 64-bit machine on hand, it is preferable to run this 
 
 Few reasons why:
 - You do not need to modify any current setup of your machine.
-- You can get rid of the VM after the lab.
+- You can get rid of the VM after the lab :sob: .
 - Create a dedicated lab entirely for reversing and for future RE on malicious binaries.
 
 Obtain a Windows 64-bit VM from here --> https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/
