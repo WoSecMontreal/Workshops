@@ -2,7 +2,7 @@
 
 ## Lab Environment
 
-Since we are going to debug 64-bit Windows binaries, our lab environment should be **Windows 64-bit** :smile:
+Since we are going to debug 64-bit Windows binaries, our lab environment should be **Windows 64-bit** :)
 
 `NOTE: None of the binaries for this lab are malicious`
 
