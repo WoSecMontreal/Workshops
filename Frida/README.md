@@ -1,4 +1,4 @@
-[VirtualBox VM available here](https://1drv.ms/u/s!AuGLQFhaHTfZgt9bOTVFEWaVqjtLkg?e=EahPFm) (8 GB)
+[VirtualBox VM available here](https://mega.nz/file/CNczQKrR#zIbKL06AQ-h1X6W1TVZ5n4j4ROA7Jh6oRdG3OiW6H_Q) (8 GB)
 
 # If you don't want to use the VM, you can use the following instructions instead**
 
